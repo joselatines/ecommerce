@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/components/shared/Navigation/Drawer.jsx", "src/components/shared/Navigation/Navigation.jsx"],
   "exclude": ["node_modules"]
 }
