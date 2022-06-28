@@ -4,7 +4,7 @@ interface IProps {
 
 function ProductsContainer({ children }: IProps) {
 	return (
-		<div style={{ display: 'flex', gap: '.5rem', flexWrap: 'wrap' }}>
+		<div style={{ display: 'flex', gap: '2rem', flexWrap: 'wrap' }}>
 			{children}
 		</div>
 	);

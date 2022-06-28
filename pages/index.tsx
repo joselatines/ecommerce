@@ -33,7 +33,7 @@ const Home: NextPage = () => {
 					<section className={homeStyles.main}>
 						<div style={{ display: 'flex', justifyContent: 'space-between' }}>
 							<span>Routes &gt; routes</span>
-							<span>Filtros</span>
+						{/* 	<span>Filtros</span> */}
 						</div>
 
 						<ProductsContainer>
